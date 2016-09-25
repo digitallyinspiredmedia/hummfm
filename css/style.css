@@ -205,7 +205,7 @@ span.burger-icon.active {
   top: 0;
 }
 body.active{
-	overflow: hidden;
+	/*overflow: hidden;*/
 }
 .nav-body.active{
     display: block;
