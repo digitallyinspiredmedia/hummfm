@@ -265,6 +265,7 @@ li:focus a{
 
 section{
 	background: transparent;
+	margin: 0 120px;
 }
 .section-title {
     background: transparent;
