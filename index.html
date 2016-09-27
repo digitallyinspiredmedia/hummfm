@@ -110,10 +110,10 @@
 // });
 
 
-$(".burgermenu-unit").click(function(){
-    $(".burger-menu").toggleClass("active");
-    $(".nav-menu").toggleClass("active");
-    $("body").toggleClass("active");
+$(".burgermenu-unit").hover(function(){
+    $(".burger-menu").addClass("active");
+    $(".nav-menu").addClass("active");
+    $("body").addClass("active");
   });
 
 $("li").click(function(){
