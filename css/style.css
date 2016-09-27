@@ -240,20 +240,27 @@ li > a{
     font: 400 17px/26px 'Lato', sans-serif;;
     line-height: 41px;
     padding-left: 30px;
-    -webkit-transition: all 2.3s ease;
-    -moz-transition: all 2.3s ease;
-    transition: all 2.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
 }
 
 li.active,
-li:hover{
+li:hover,
+li:focus{
 	background-color: #fff;
 	color: #333;
 	    -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     transition: all 0.3s ease;
 }
-
+li:hover a,
+li:focus a{
+	color: #333;
+	    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
 
 section{
 	background: transparent;
