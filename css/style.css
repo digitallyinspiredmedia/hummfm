@@ -117,6 +117,7 @@ body.fixed .logoad-unit .logo {
     top: 8px;
     left: 82px;
     z-index: 999;
+	background-image: url('../image/wlogo.png');
     background-size: cover;
     width: 216px;
     height: 45px;
