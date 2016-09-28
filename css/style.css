@@ -110,7 +110,7 @@ header{
 	position: relative;
 	width: calc( 100% - 318px - 100px);
     height: 97px;
-    background-color: #000;
+    background-color: transparent;
 }
 body.fixed .logoad-unit .logo {
     position: fixed;
