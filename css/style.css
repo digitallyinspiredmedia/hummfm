@@ -136,7 +136,9 @@ body.fixed .logoad-unit .logo {
     z-index: 998;
     width: 100%;
     background-image: initial;
-    background: #12a3e0;
+    background: #1095cd url(../image/menubar-hover.png) no-repeat;
+    background-size: contain;
+    background-position: center right;
 }
 .burgermenu-unit{
 	width: 40px;
