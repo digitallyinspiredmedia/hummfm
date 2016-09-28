@@ -114,7 +114,7 @@ header{
 }
 body.fixed .logoad-unit .logo {
     position: fixed;
-    top: 8px;
+    top: 34px;
     left: 82px;
     z-index: 999;
 	background-image: url('../image/wlogo.png');
@@ -132,7 +132,7 @@ body.fixed .logoad-unit .logo {
 .nav-body.fixed {
     position: fixed;
     top: 0;
-    height: 60px;
+    height: 105px;
     z-index: 998;
     width: 100%;
     background-image: initial;
@@ -201,7 +201,7 @@ body.fixed .logoad-unit .logo {
   top: 0;
 }
 .nav-body.fixed .burger-menu{
-	top: 0px;
+	top: 24px;
 }
 .nav-footer .ad-unit{
 	width: 100%;
@@ -275,7 +275,7 @@ section{
     color: #fff;
 }
 .section-title.scroll-to-fixed-fixed {
-    left: 316px !important;
+    left: 320px !important;
     padding: 0;
 }
 
